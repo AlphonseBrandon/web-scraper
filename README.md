@@ -1,4 +1,4 @@
-# Web Crawler
+# Web Scraper
 
 #### -- Project Status: Completed
 
@@ -10,7 +10,7 @@ There are tons of information on websites today, being able to scrap of any info
 
 ### Objective
 
-Scrap data (in tables) on wikipedia page 
+Scrap data (in tables) on wikipedia page
 
 ### Methods Used
 
