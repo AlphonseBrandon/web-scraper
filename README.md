@@ -10,7 +10,9 @@ There are tons of information on websites today, being able to scrap of any info
 
 ### Objective
 
-Scrap data (in tables) on wikipedia page
+Scrap data (in tables) from wikipedia page
+
+![1668891788973](image/README/1668891788973.png)
 
 ### Methods Used
 
