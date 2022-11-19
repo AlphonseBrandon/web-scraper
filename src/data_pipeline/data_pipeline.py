@@ -24,7 +24,7 @@ tmdb.api_key = '663ff3650c35de4553dbd25b8eb2de0d'
 from tmdbv3api import Movie
 tmdb_movie = Movie()
 
-movie_year = 2021
+movie_year = 2022
 
 link = "https://en.wikipedia.org/wiki/List_of_American_films_of_{}".format(movie_year)
 

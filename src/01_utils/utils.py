@@ -51,7 +51,7 @@ def make_dataframe_of_tabular_data():
 def combine_dataframes():
     '''This function combines all the dataframes into one'''
     global data 
-    data = df1.append(df2.append(df3.append(df4,ignore_index=True),ignore_index=True),ignore_index=True)    
+    data = pd.concat([df1, df2, df3, df4])    
 
 def saving_data_to_disk():
     '''This function saves the scrapped data to dara/01_raw directory'''
