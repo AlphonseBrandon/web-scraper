@@ -8,7 +8,7 @@ Last Updated Time: 3:26 PM
 Description: This script contains the datapipeline steps to scrap wiki data and process it. Just run the script changing the movie_year variable of the movies you want to scrap
 '''
 import sys
-sys.path(1, 'D:/github-repos/web-crawler/src/01_utils')
+sys.path.insert(1, 'D:/github-repos/web-crawler/src/01_utils')
 import utils
 
 import pandas as pd
